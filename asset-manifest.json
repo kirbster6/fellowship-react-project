@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fellowship-react-project/static/css/main.073c9b0a.css",
-    "main.js": "/fellowship-react-project/static/js/main.66c441c7.js",
+    "main.css": "/fellowship-react-project/static/css/main.1b3f3df8.css",
+    "main.js": "/fellowship-react-project/static/js/main.8a53ff5b.js",
     "static/js/787.28cb0dcd.chunk.js": "/fellowship-react-project/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/fellowship-react-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fellowship-react-project/index.html",
-    "main.073c9b0a.css.map": "/fellowship-react-project/static/css/main.073c9b0a.css.map",
-    "main.66c441c7.js.map": "/fellowship-react-project/static/js/main.66c441c7.js.map",
+    "main.1b3f3df8.css.map": "/fellowship-react-project/static/css/main.1b3f3df8.css.map",
+    "main.8a53ff5b.js.map": "/fellowship-react-project/static/js/main.8a53ff5b.js.map",
     "787.28cb0dcd.chunk.js.map": "/fellowship-react-project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.66c441c7.js"
+    "static/css/main.1b3f3df8.css",
+    "static/js/main.8a53ff5b.js"
   ]
 }
