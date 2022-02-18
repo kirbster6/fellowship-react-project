@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: #190061;
+  padding-bottom: 100%;
+}
+
+.Home {
+  background-color: #190061;
 }
 
 .App-logo {

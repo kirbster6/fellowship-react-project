@@ -1,3 +1,24 @@
+.Home {
+    background-color: #190061;
+}
+
+.webpage-title{
+    background-color: #0C0032;
+    padding: 0;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right:0;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color:aliceblue;
+    font-family: "Merriweather";
+}
 .my-classes {
-    background-color: gainsboro;
+    background-color: #190061;
+}
+
+#title-form {
+    color:aliceblue;
+    font-family: "Merriweather";
 }
